@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/popabono/Desktop/android-kotlin-fundamentals-starter-apps-master/RepositoryPattern-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/devbyte_item.xml",
+        "source": "/home/popabono/Desktop/android-kotlin-fundamentals-starter-apps-master/RepositoryPattern-Starter/app/src/main/res/layout/devbyte_item.xml"
+    },
+    {
+        "merged": "/home/popabono/Desktop/android-kotlin-fundamentals-starter-apps-master/RepositoryPattern-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dev_byte.xml",
+        "source": "/home/popabono/Desktop/android-kotlin-fundamentals-starter-apps-master/RepositoryPattern-Starter/app/src/main/res/layout/fragment_dev_byte.xml"
+    }
+]
